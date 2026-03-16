@@ -1,0 +1,6 @@
+# Optional: Add your authentication cookies here if you're getting 403 errors
+# This file is optional - if everything works, you don't need to modify it
+# Format: One cookie per line (name=value)
+# Example:
+# session_id=abc123
+# auth_token=xyz789

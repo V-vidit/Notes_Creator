@@ -4,3 +4,5 @@ openai-whisper
 yt-dlp
 requests
 python-multipart
+sentence-transformers
+numpy
